@@ -1,11 +1,11 @@
 ---
-title: Getting started
-titleTemplate: Guides
-description: Essential information to help you get set up with Aniyomi.
+标题：入门
+titleTemplate：参考线
+描述：帮助您设置Aniyomi的基本信息。
 ---
 
-<script setup lang="ts">
-import { data as release } from "@theme/data/release.data"
+<剧本设置朗="ts">
+从"@theme/data/release.data"导入{data作为发布}
 </script>
 
 # Getting started
@@ -16,7 +16,7 @@ Essential information to help you get set up with Aniyomi.
 
 ### Downloading Aniyomi
 
-1. Visit our [download](/download/) page to get the latest version of **Aniyomi**.
+1. Visit our [下载](/download/) page to get the latest version of **Aniyomi**.
 2. After the download is complete, open the `.apk` file.
 3. Proceed with the installation process.
 
